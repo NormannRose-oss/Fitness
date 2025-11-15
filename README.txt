@@ -1,0 +1,1 @@
+Place .glb files here. Use modelUrl fields in objects to link to models, e.g. /models/powerrack.glb
